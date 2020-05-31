@@ -1,4 +1,3 @@
-# Arrays
 
 
 # Sort the array of objects
